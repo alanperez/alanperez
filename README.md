@@ -6,7 +6,7 @@ I'm a web developer who is passionate about building beautiful web applications.
 <br />
 
  
-<img  src="https://github-readme-stats.vercel.app/api?username=alanperez&theme=dark" />
+<img  src="https://github-readme-stats.vercel.app/api?username=alanperez&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 
  
 ### 🧰 Languages and Tools

@@ -3,12 +3,12 @@
 **`Software Engineer`**
 
 I'm a web developer who is passionate about building beautiful web applications. I enjoy building web applications with React.js & Typescript along with REST APis in Node, Express, Java. 
-<br />
 
- 
-<img  src="https://github-readme-stats.vercel.app/api?username=alanperez&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 
- 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alanperez&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanperez&layout=compact" />
+ <br />
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -32,7 +32,7 @@ I'm a web developer who is passionate about building beautiful web applications.
 
 <!--
 **alanperez/alanperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanperez&layout=compact" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

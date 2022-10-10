@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a web developer who is passionate about building beautiful web applications. I enjoy building web applications with React.js & Typescript along with REST APis in Node, Express, Java. 
+I'm a developer who is passionate about building beautiful web applications. I enjoy building web applications with React.js & Typescript along with REST APis in Node, Express, Java. 
 
 <br />
 

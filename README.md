@@ -1,4 +1,4 @@
-# (╯°□°）╯︵ ┻━┻ Alan Perez
+# 👋🏽 Alan Perez
 
 **`Software Engineer`**
 
